@@ -1,0 +1,23 @@
+<h1 style="font-family:Arial; font-size:250%; color:#000000">DAFTAR NAMA KELAS 3DC01</h1>
+				<form>
+				<label for="npm" style="font-family:Arial; color:#000000">NPM :	</label>
+				<input type="text" name="npm" size="10px"><br><br>
+			
+				<label for="nama" style="font-family:Arial; color:#000000">Nama: </label>
+				<input type="text" name="nama" size="40px"><br><br>
+				
+				<label for="tanggal" style="font-family:Arial; color:#000000">Tanggal Lahir: </label>  
+				<input type="date" name="bday"><br><br>
+				
+<h3 style="font-family:Arial; font-size:150%; color:#000000" align="center" >DAFTAR NAMA KELAS 3DC01</h3>
+				<tr>
+				<th style="color:black">NPM</th>
+				<th style="color:black">Nama</th>
+				<th style="color:black">Tanggal Lahir</th>
+				</tr>
+				<tr>
+				<td style="color:black">46116887</td>
+				<td style="color:black">Sebastian Firdaus</td>
+				<td style="color:black">05/25/1998</td>
+				</tr>
+				</table>
